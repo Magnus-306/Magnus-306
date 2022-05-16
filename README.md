@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)]
 <h1 align="center">Hi 👋, I'm MagnusJS</h1>
 <h3 align="center">MagnusJS(Dinh Bach) is a software engineer in Ho Chi Minh city, Vietnam. He enjoys building software with Reactjs, Nextjs, typing safe code with Typescript or dealing with algorithms and data structures.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif)"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magnus-306&label=Profile%20views&color=0e75b6&style=flat" alt="magnus-306" /> </p>
 
 - 🔭 I’m currently working on **TikTok clone**
