@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magnusjss&" alt="magnusjss" /></p>
 
+[![Demonstration of using CI with JUnit & Apache Ant | © 2023 by magnus](https://github.com/magnusjss/testing-and-ci-cd/actions/workflows/mathutil-ci-ant.yml/badge.svg)](https://github.com/magnusjss/testing-and-ci-cd/actions/workflows/mathutil-ci-ant.yml)
